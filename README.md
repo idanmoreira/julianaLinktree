@@ -18,7 +18,7 @@ Case de estudos desenvolvido a partir do programa, promovido pela Rocketseat par
 <br>
 
 <p align="center">
-  <img alt="projeto Linktree Juliana Manduca" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Linktree Juliana Manduca" src="github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
