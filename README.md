@@ -1,4 +1,4 @@
-<h1 align="center"> Juliana Manduca personal linktree </h1>
+<h1 align="center"> 🌐 Juliana Manduca personal linktree </h1>
 
 <p align="center">
 Case de estudos desenvolvido a partir do programa, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -25,16 +25,19 @@ Case de estudos desenvolvido a partir do programa, promovido pela Rocketseat par
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
+- **HTML5** – Estrutura do conteúdo
+- **CSS3** – Estilização da interface
+- **JavaScript Vanilla** – Interações básicas
+- **NGINX (Docker)** – Servidor HTTP para hospedar os arquivos
+- **Dockerfile** – Empacotamento da aplicação estática
+- **EasyPanel** – Painel de deploy e gerenciamento de aplicações
+- **GitHub Webhooks** – Deploy automático a cada push na branch `main`
 
 ## 💻 Projeto
 
 Este projeto é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://linktree.julianamanduca.com.br)
+- [Acesse o projeto finalizado, online](https://link.julianamanduca.com.br)
 
 
 ## :memo: Licença
